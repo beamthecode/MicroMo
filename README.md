@@ -10,7 +10,7 @@ The app allows the user this functionality regarding breweries:
 
 
 - The API pulls brewery information for all breweries in the state of Missouri.
--  The app allows users to add users to add breweries of interest to their own unique list. Brewery contact information as well as a link to their website is pulled via API.  Once a user adds a brewery to their list the information is stored in core data. 
+-  The app allows users to add breweries of interest to their own unique list. Brewery contact information as well as a link to their website is pulled via API.  Once a user adds a brewery to their list the information is stored in core data. 
 - User list information is persisted between restarts of the app.
   
 
